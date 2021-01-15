@@ -8,6 +8,9 @@
 </head>
 
 <body>
+<!-- En allant de 0 à 100 avec un pas de 1, afficher tous ceux qui ne sont pas multiple de 3.
+
+ -->
 
     <?php
     $i = 0;
